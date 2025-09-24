@@ -1,7 +1,6 @@
 /*
  * FileCrypt.c - Simple XOR File Encryption Tool
  * 
- * EDUCATIONAL PURPOSE ONLY - Understanding Ransomware Mechanisms
  * This demonstrates basic file encryption using XOR cipher
  * 
  * WARNING: Use only on test files you own! Always backup first!
